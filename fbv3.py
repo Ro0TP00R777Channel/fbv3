@@ -64,10 +64,10 @@ logo ="""
 \033[1;96m█.    _-_-- -_ --  Ro0TP00R Channel
 \033[1;96m█ ▲▲▲▲▲   -_ -«============✧==========»
 \033[1;96m█████████   SUBSCRIBE NOW TO MY CHANNELL ...!!
-\033[1;96m ██ ██       VIP-V3 by Ro0TP00R Channel                    
+\033[1;96m ██ ██       VIP-V3 by Tutorial Termux AC                    
 \033[1;93m╔═══════════════════════════════════════════╗
 \033[1;93m║\033[1;96m¤ \033[1;93mAuthor  \033[1;93m: \033[1;93mRo0TP00R   \033[1;93m                    ║
-\033[1;93m║\033[1;96m¤ \033[1;93mWa  \033[1;93m    : \033[1;93m\033[4m082376666188\033[0m \033[1;93m                  ║
+\033[1;93m║\033[1;96m¤ \033[1;93mWa  \033[1;93m    : \033[1;93m\033[4m082312504108\033[0m \033[1;93m                  ║
 \033[1;93m╚═══════════════════════════════════════════╝
 """
 
@@ -112,13 +112,13 @@ def an():
         os.system('reset')
         print logo
         time.sleep(1)
-        print 'Silahkankan Subscribe ke channell Ro0TP00R Channel !!'
+        print 'Silahkankan Subscribe ke channell Tutorial Termux AC !!'
         time.sleep(3)
         print 'Semoga yang subscribe rejekinya banyak Amin...!!'
         time.sleep(3)
         print 'subscribe itu Gratis'
         time.sleep(3)
-        os.system('xdg-open https://www.youtube.com/channel/UCbk8yD2tk7VWEOoHtMUbjNg ')
+        os.system('xdg-open https://youtube.com/c/TutorialTermuxAC ')
         print 'User = Ro0T  dan   Pasw = P00R '
         time.sleep(5)
         print 'Masukan User dan Pass nya ?'
